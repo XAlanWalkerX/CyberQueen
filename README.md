@@ -1,4 +1,4 @@
-# Now You Can Deploy CyberQueen WhatsApp BOT Public
+# Project Closed. but You Can Deploy...
  
 
 ## Hi there I am ᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ v3.9.9
@@ -33,15 +33,13 @@
   
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
   
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen-CMD-BOT)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XAlanWalkerX/CyberQueen)
  
  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/eWp9wx)
   
 ### For BTN BOT
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR?v=1)
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen-BTN-BOT)
+Never...💔
  
 
   <p align="center">
